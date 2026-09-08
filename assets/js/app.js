@@ -373,7 +373,7 @@
       { label: "Volume I — Quantum Computers (Textbook)", url: "https://skjaindr.github.io/Quantum-Computing.book-1/" },
       { label: "Volume II — Quantum Algorithms & Complexity (Textbook)", url: "https://skjaindr.github.io/Quantum-Computing.book-2/" },
       { label: "Volume III — Quantum Hardware, Error Correction & Applications", url: "https://skjaindr.github.io/Quantum-Computing.book-3/" },
-      { label: "Lab Manual II — Advanced Quantum Algorithms & Hardware", url: "https://skjaindr.github.io/quantum-computing-lab-manual-2-site-protected/" },
+      { label: "Lab Manual II — Advanced Quantum Algorithms & Hardware", url: "https://skjaindr.github.io/quantum-computing-labmanual-2/" },
   ];
 
   function initSeriesLinks() {
